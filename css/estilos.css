@@ -9,14 +9,6 @@ body
     margin: 0;
 }
 
-
-#cabecera #tagline
-{
-    font-size: 25px;
-    padding-left: 0.5em;
-    font-weight: normal;
-}
-
 #container
 {
     width: 70%;
