@@ -9,6 +9,16 @@ body
     margin: 0;
 }
 
+#cabecera
+{
+    background: #E01610;
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em 0 0.5em 2em;
+}
 
 #cabecera #tagline
 {
