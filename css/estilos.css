@@ -11,7 +11,7 @@ body
 
 #cabecera
 {
-    background: #E01610;
+    background: #1422e4;
     text-align: left;
     color: white;
     font-size: 30px;
@@ -25,6 +25,12 @@ body
     font-size: 25px;
     padding-left: 0.5em;
     font-weight: normal;
+}
+
+#cabecera #logo
+{
+    width: 40px;
+    vertical-align: middle;
 }
 
 #container
