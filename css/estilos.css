@@ -1,6 +1,6 @@
 body
 {
-    background: gainsboro;
+    background: white;
     color: #333;
     font-family: sans-serif;
     text-align: center;
@@ -14,6 +14,17 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 3px solid #DDD;
     margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 22px;
+}
+
+#post
+{
+    background: #DDD;
+    padding: 1em;
 }
