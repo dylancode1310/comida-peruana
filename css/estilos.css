@@ -28,3 +28,12 @@ body
     background: #DDD;
     padding: 1em;
 }
+
+#footer
+{
+    background: #1422e4;
+    font-size: 15px;
+    padding: 0.5em;
+    color: white;
+    font-weight: bold;
+}
