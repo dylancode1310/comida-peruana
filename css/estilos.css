@@ -45,13 +45,14 @@ body
 
 #container h1
 {
-    font-size: 22px;
+    font-size: 30px;
 }
 
 #post
 {
     background: #DDD;
     padding: 1em;
+    font-size: 25px;
 }
 
 #footer
